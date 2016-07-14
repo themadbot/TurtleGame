@@ -1,0 +1,27 @@
+
+example.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+turtle0
+  rotate: false
+  xy: 2, 68
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+turtle1
+  rotate: false
+  xy: 2, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+turtle2
+  rotate: false
+  xy: 33, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.3/c45573bf68b55442990936f007e7d6823d259c1f/gdx-backend-android-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c45573bf68b55442990936f007e7d6823d259c1f">
+        <dex dex="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.3_f559f19542187ee5eddb93bb9b0ecd0955d95396.jar" />
+    </item>
+    <item
+        jar="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b00605c261beaacecac1fb1f2de409dd2f4124a">
+        <dex dex="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fad3e6e3adbc63f8dfde169f001a4623d034eaab.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.3/1a3775429980a6c8da0cdefb656ad1dabf91d629/gdx-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a3775429980a6c8da0cdefb656ad1dabf91d629">
+        <dex dex="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/pre-dexed/debug/gdx-1.9.3_0a1ed606ad7bdbabe33bbb58fa8acecd62609e6b.jar" />
+    </item>
+    <item
+        jar="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b2f00445d32a43c1aaf3fa79ff7682fca4e137de">
+        <dex dex="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/pre-dexed/debug/instant-run_0c68b3f78518842c0f6cccaf9605c37ff9abb1a7.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.3/924800875b5ce70081021240a1301b60993b62e6/gdx-box2d-1.9.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="924800875b5ce70081021240a1301b60993b62e6">
+        <dex dex="/home/johnny/AndroidStudioProjects/TurtleGame/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.3_f0fc1c8ea835fa98cdcf16ff618848a0b49d4321.jar" />
+    </item>
+
+</items>
